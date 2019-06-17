@@ -313,7 +313,7 @@ The Model-View-Presenter pattern allows to separate the presentation layer from 
     }
     **ScreenShot**
    ![Screenshot](https://github.com/er-akashgarg/Schibsted-Playground/blob/master/app/screenshots/s_1.png)
-   ![Screenshot](https://github.com/er-akashgarg/Schibsted-Playground/tree/master/app/screenshots/s_2.png)
+   ![Screenshot](https://github.com/er-akashgarg/Schibsted-Playground/blob/master/app/screenshots/s_2.png)
    
  
    
